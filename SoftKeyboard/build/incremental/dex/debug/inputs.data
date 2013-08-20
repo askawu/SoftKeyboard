@@ -1,0 +1,27 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377013321410 1799 6029f49a913ecf0f902e6779c194e693ae2b89d9 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\ContactListActivity.class
+1376996044332 6172 b1271f9e443ed59ac4ec10040775644ce9a99e49 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\android\inputmethodcommon\InputMethodSettingsImpl.class
+1376996044468 1502 8027e58f4574fc8acdce17ec9d1b4b91d2aaab8d C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\CandidateView$1.class
+1376996044645 584 c5cf2b8b87a6e4969c9289b0e6b1aa8291e11e56 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$dimen.class
+1376996044589 2173 2326788fa89c4fa05c067e51119d672b2ff1bfa6 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\LatinKeyboardView.class
+1377012897838 815 fac397e3800b9037508befba54abada12e080e56 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R.class
+1377013140936 502 5513ea17ec27e2a9bedca14afa2a2acd6990a7d1 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$id.class
+1376996044638 382 cde1048c6631d42d801f15d71d8dfc0105bf9c24 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$attr.class
+1376996044602 2639 4c59486d7c58e57088ec3cf3addd76c40f24a703 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\LatinKeyboard.class
+1376996044673 373 64002c8ae93463a03adbc30896d2be931e48b1a2 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\BuildConfig.class
+1377012897822 514 8f2f6e12e398f5f1ec83e7d4e2000a9c9bf0f0cc C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$layout.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Users\aska\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1376996044630 1202 78c22dcb9e5e73ed58ae376e76839d9493e666cf C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\ImePreferences.class
+1376996044650 736 30f644c5711ad62ca9b9ef2e4d176f6ec256331f C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$drawable.class
+1376996044597 1122 8b64aa724f85d3d8843ee9c8603db16f46c9d5d2 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\LatinKeyboard$LatinKey.class
+1377012897828 1004 69b32e3586cb922442ebb1f4de02852a2079f898 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$string.class
+1376996044226 381 2b4171ced44b6e72a18ba378ef3646267a2593c6 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\android\inputmethodcommon\InputMethodSettingsInterface.class
+1376996044490 7568 0b04b87a3b5ec0f6d707e2b51bd0205583a33978 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\CandidateView.class
+1377012897618 14206 c99db838e2e0db5ce1d03e5a063c9b3b822a708f C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\SoftKeyboard.class
+1377012897832 566 4ac86129c48a90425554c8ffc0b388ea7b96fff6 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$xml.class
+1376996044642 573 e326254f265363ecf01841067fb431187ac766ff C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\R$color.class
+1376996044322 2255 17484b1490ed7d9caabb6c4859214335bb5f534c C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\android\inputmethodcommon\InputMethodSettingsImpl$1.class
+1376996044626 826 611b4560e0e65eeb925f6dc4287482ef9d6e5a36 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\example\android\softkeyboard\ImePreferences$Settings.class
+1376996044224 2307 a44d28899df79dcb6197fc9eca1d06ec7564d521 C:\Users\aska\Documents\AndroidStudioProject\SoftKeyboardProject\SoftKeyboard\build\classes\debug\com\android\inputmethodcommon\InputMethodSettingsFragment.class
